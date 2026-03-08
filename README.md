@@ -1,4 +1,4 @@
-# Voizegen Backend 🎙️
+# Voizegen Backend 
 
 Hey team! This is the backend for Voizegen — our AI-powered social speech rehearsal app for children on the autism spectrum. This README will walk you through everything you need to know to get up and running, even if this is your first time working on a backend project.
 
