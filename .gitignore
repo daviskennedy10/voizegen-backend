@@ -1,0 +1,16 @@
+# Virtual environment - never commit this, it's huge
+venv/
+
+# Secret keys - NEVER commit this
+.env
+
+# Python cache files - auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Mac junk
+.DS_Store
